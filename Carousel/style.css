@@ -1,0 +1,39 @@
+/********** TEAM SECTION CSS CODES ***********/
+.team{
+  width: 100%;
+  height: 450px;
+  background-color: grey;
+
+}
+.team-area{
+  box-sizing: border-box;
+  padding-top: 25px;
+  height: 585px; 
+  width: 100%;
+  background-color: yellow;
+  margin: 0px auto;
+  max-width: 1245px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.itemarea{
+  width:100%;  
+  overflow:hidden;
+}
+.all-items{
+  width: 5000px;
+  position: relative;
+  left: 0px;
+  height: auto;
+}
+.items{
+  border-right: 2px solid green;
+  position: relative;
+  float: left;
+  display: inline-block;
+  height: auto;
+  background-color: lightgray;
+}
+.carousel-btns{
+  margin: 0px auto;
+}
